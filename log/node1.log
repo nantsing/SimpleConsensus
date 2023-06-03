@@ -1,0 +1,3 @@
+[Consesus log] 2023/06/03 15:49:50.400163 logger.go:32: Become follower at terms: 0
+[Consesus log] 2023/06/03 15:49:55.590976 logger.go:32: Become candidate at terms: 1
+[Consesus log] 2023/06/03 15:49:55.941635 logger.go:32: Become follower at terms: 3
